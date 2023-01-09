@@ -62,7 +62,7 @@ The following links need to be downloaded.
 
 11- Add the routes of the project in Postman to use them. You can use them from this [Workspace](https://www.postman.com/winter-astronaut-380709/workspace/mongodb).
 
-12- Open Studio 3T and connect to the database locally through the following link: mongodb://0.0.0.0:27017
+12- Open Studio 3T and connect to the database locally through the following link: mongodb://localhost:27017
 
 13- In the *local* database, you will find the collection *alphabets*. In the collection, you will find the users you add through the routes. 
 
