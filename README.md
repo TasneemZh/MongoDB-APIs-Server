@@ -14,11 +14,11 @@ This NodeJS app can be the server of any FE project. The suggestion is to implem
 
 ### Steps
 
-1- `npx create-react-app [name-of-your-project]`
+1- In the terminal, run the following command to build the sample app: `npx create-react-app [name-of-your-project]`
 
-2- `cd [name-of-your-project]`
+2- Move to the sample app based on what you named it: `cd [name-of-your-project]`
 
-3- `npm start`
+3- Start the sample app on http://localhost:3000: `npm start`
 
 # The Project Server
 
